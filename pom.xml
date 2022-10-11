@@ -95,6 +95,11 @@
       </exclusions>
     </dependency>
     <dependency>
+      <groupId>ai.tock</groupId>
+      <artifactId>tock-bot-connector-web</artifactId>
+      <version>${tock.version}</version>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
